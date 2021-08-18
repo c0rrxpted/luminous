@@ -40,7 +40,23 @@
       ]
     },
     {
-      "title": "1.3 — No Spam or Ads",
+      "title": "1.3 — No Drama or Controversy",
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Description",
+          "value": "We recommend avoiding speaking about politics or religion, as this results in disagreements. However, if you choose to engage in controversial topics, please be respectful of other's opinions. Forcing others to follow your beliefs or expressing extremism is unacceptable.",
+          "inline": true
+        },
+        {
+          "name": "Punishment",
+          "value": "First 3 times - `mute`, more `ban`",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "1.4 — No Spam or Ads",
       "color": 1725439,
       "fields": [
         {
@@ -56,7 +72,7 @@
       ]
     },
     {
-      "title": "1.4 — No Jokes about Breaking Discord's Rules or the Law",
+      "title": "1.5 — No Jokes about Breaking Discord's Rules or the Law",
       "color": 1725439,
       "fields": [
         {
