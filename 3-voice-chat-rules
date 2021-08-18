@@ -1,0 +1,59 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 13260,
+      "image": {
+        "url": "https://i.imgur.com/v3axI09.gif"
+      }
+    },
+    {
+      "title": "2.1 — No Earrape",
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Description",
+          "value": "Creating loud sounds with your mic or by commanding a music bot. This disrupts others and risks damages their hearing.",
+          "inline": true
+        },
+        {
+          "name": "Punishment",
+          "value": "`mute`",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "2.2 — No Streaming Pirated or not Safe for Work Content",
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Description",
+          "value": "Streaming risks causing Digital Millenium Copyright Act violations. It's also against Discord to stream porn or gore, as it's also unethical.",
+          "inline": true
+        },
+        {
+          "name": "Punishment",
+          "value": "`mute`",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "2.3 — No Voice Changers",
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Description",
+          "value": "Using third-party apps such as voice changers violates DIscord and risks impersonating.",
+          "inline": true
+        },
+        {
+          "name": "Punishment",
+          "value": "`mute`",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
