@@ -24,7 +24,7 @@
       ]
     },
     {
-      "title": "2.2 — No Streaming Pirated or not Safe for Work Content",
+      "title": "2.2 — No Streaming Pirated or Not Safe for Work Content",
       "color": 1725439,
       "fields": [
         {
@@ -40,12 +40,28 @@
       ]
     },
     {
-      "title": "2.3 — No Hogging Calls",
+      "title": "2.3 — No Hogging",
       "color": 1725439,
       "fields": [
         {
           "name": "Description",
           "value": "Setting your channel to 1 or 2 people. If you want to talk one-on-one with someone, just call them via direct messages. Otherwise, this creates pointless channels that are only in the way.",
+          "inline": true
+        },
+        {
+          "name": "Penalty",
+          "value": "`mute`",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "2.4 — No Disrupting",
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Description",
+          "value": "Intentionally skipping a bunch of music for the sake of being rude, playing long music to delay other music, or repetitively joining or leaving the call in a short time frame to make notification sounds.",
           "inline": true
         },
         {
