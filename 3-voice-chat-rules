@@ -40,12 +40,12 @@
       ]
     },
     {
-      "title": "2.3 — No Voice Changers",
+      "title": "2.3 — No Hogging Calls",
       "color": 1725439,
       "fields": [
         {
           "name": "Description",
-          "value": "Using third-party apps such as voice changers violates DIscord and risks impersonating.",
+          "value": "Setting your channel to 1 or 2 people. If you want to talk one-on-one with someone, just call them via direct messages. Otherwise, this creates pointless channels that are only in the way.",
           "inline": true
         },
         {
