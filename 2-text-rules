@@ -4,7 +4,7 @@
     {
       "color": 13260,
       "image": {
-        "url": "https://i.imgur.com/2e790yz.gif"
+        "url": "https://i.imgur.com/Ma9A509.gif"
       }
     },
     {
@@ -17,7 +17,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -33,7 +33,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -49,7 +49,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -65,7 +65,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -81,7 +81,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -97,7 +97,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
@@ -109,11 +109,11 @@
       "fields": [
         {
           "name": "Description",
-          "value": "Promoting the use of apps that cause security issues to the application programming interface is against Discord's rules. This includes screenshots or videos of theme changers or other software that causes security issues for yourself.",
+          "value": "Promoting the use of apps that cause security issues to the application programming interface is against Discord's security. This includes showing theme changers, voice changers, or other prohibited software.",
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
