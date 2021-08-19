@@ -21,8 +21,8 @@
           "inline": true
         },
         {
-          "name": "Punishment",
-          "value": "The severity of the infraction is discretionary to the mods.",
+          "name": "Penalty",
+          "value": "The severity of the infraction is discretionary to the mods. In severe cases, Discord's Trust & Safety Team or other legal authorities are involved.",
           "inline": true
         }
       ],
@@ -41,8 +41,8 @@
           "inline": true
         },
         {
-          "name": "Punishment",
-          "value": "The severity of the infraction is discretionary to the mods.",
+          "name": "Penalty",
+          "value": "The severity of the infraction is discretionary to the mods. In severe cases, Discord's Trust & Safety Team or other legal authorities are involved.",
           "inline": true
         }
       ],
