@@ -13,7 +13,7 @@
       "fields": [
         {
           "name": "Description",
-          "value": "Don't talk about gore, sex, or anything inappropriate to minors.",
+          "value": "Don't talk about, suggest, or send imagery depicting sex, gore, or anything else that's considered Not Safe for Work.",
           "inline": true
         },
         {
