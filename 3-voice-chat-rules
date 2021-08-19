@@ -17,7 +17,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "`mute`",
           "inline": true
         }
@@ -33,7 +33,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "`mute`",
           "inline": true
         }
@@ -49,7 +49,7 @@
           "inline": true
         },
         {
-          "name": "Punishment",
+          "name": "Penalty",
           "value": "`mute`",
           "inline": true
         }
