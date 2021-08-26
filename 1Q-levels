@@ -1,0 +1,30 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 16724869,
+      "author": {
+        "name": "Levels"
+      },
+      "image": {
+        "url": "https://i.imgur.com/G2ldnfL.gif"
+      }
+    },
+    {
+      "description": "Message to level up and unlock perks. These can also be bypassed if you buy our premium subscriptions or boost.",
+      "color": 16737955,
+      "fields": [
+        {
+          "name": "Perks",
+          "value": "<@&776254469485756463> — God mode.",
+          "inline": true
+        },
+        {
+          "name": "Commands",
+          "value": "• `!rank` — see your rank card.",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
