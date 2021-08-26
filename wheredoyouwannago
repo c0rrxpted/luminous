@@ -11,28 +11,29 @@
       "color": 16724869,
       "fields": [
         {
-          "name": "._.",
-          "value": "[About us](https://github.com/c0rrxpted/luminous/tree/main)"
+          "name": "** **",
+          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\n\nLearn about the server.",
+          "inline": true
         },
         {
-          "name": "._.",
-          "value": "[Roles](https://github.com/c0rrxpted/luminous/tree/main)"
+          "name": "** **",
+          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\n\nPick a named color and customize your settings.",
+          "inline": true
         },
         {
-          "name": "._.",
-          "value": "[Rules](https://github.com/c0rrxpted/luminous/tree/main)"
+          "name": "** **",
+          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\n\nLearn about what is and isn't allowed here.",
+          "inline": true
         },
         {
-          "name": "._.",
-          "value": "[Partnership requirements](https://github.com/c0rrxpted/luminous/tree/main)"
+          "name": "** **",
+          "value": "**[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)**\n\nSupport us if you want some extra perks and bypass levels.",
+          "inline": true
         },
         {
-          "name": "._.",
-          "value": "**[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)**"
-        },
-        {
-          "name": "._.",
-          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)"
+          "name": "** **",
+          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\n\nIf you need to speak to us, please don't hesitate to ask!",
+          "inline": true
         }
       ]
     }
