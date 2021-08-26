@@ -22,7 +22,7 @@
         },
         {
           "name": "Step 2 — Show Yourself with a Sign",
-          "value": "Join a video call from direct messages or in the server and show yourself holding a sign with your username and the server's name. Once they confirm your verification, you can leave the call.",
+          "value": "Join a video call from direct messages or in the server and show yourself holding a sign with your username and the server's name. Once they confirm your verification, you may leave the call.",
           "inline": true
         }
       ],
