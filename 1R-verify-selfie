@@ -2,7 +2,7 @@
   "content": null,
   "embeds": [
     {
-      "color": 16724869,
+      "color": 13260,
       "author": {
         "name": "Verify Selfie"
       },
@@ -13,7 +13,7 @@
     {
       "title": "How to Verify",
       "description": "Doing this gives you access to post on the selfies channel.",
-      "color": 16737955,
+      "color": 1725439,
       "fields": [
         {
           "name": "Step 1 — Contact a Mod or an Admin",
