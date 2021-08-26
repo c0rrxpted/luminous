@@ -1,0 +1,29 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 5371035,
+      "author": {
+        "name": "◦ Premium ◦ ◯"
+      },
+      "image": {
+        "url": "https://i.imgur.com/6cyFnqk.gif"
+      }
+    },
+    {
+      "title": "Tier 1 — Basic/Booster",
+      "description": "Billed monthly. FREE Trial.\n\n$2.49 USD (Test patreon subscriptions)\n-------------\nper month\n\nor\n\n$20 USD\n-----------------\nper year\n\n• Bright and black color roles\n• Bypass levels 0-30\n• Appear higher than level 125\n\nNOTE: CREATE PRICE IMAGES",
+      "color": 5371035
+    },
+    {
+      "title": "Tier 2 — Pro",
+      "description": "Billed monthly.",
+      "color": 5371035
+    },
+    {
+      "title": "Tier 3 — Elite",
+      "description": "Billed monthly.",
+      "color": 5371035
+    }
+  ]
+}
