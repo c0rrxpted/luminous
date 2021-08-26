@@ -1,0 +1,51 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 13260,
+      "image": {
+        "url": "https://i.imgur.com/yEgeir4.gif"
+      }
+    },
+    {
+      "title": "3.1 — Follow Discord's Community Guidelines and Terms of Service",
+      "description": "We only want our users to feel safe connecting with secure servers. Associating ourselves with harmful or illegal servers is a threat.",
+      "color": 1725439
+    },
+    {
+      "title": "3.2 — Have 50+ Humans",
+      "description": "You need at least 50+ human accounts on the server. This doesn't include bots or alternative accounts.",
+      "color": 1725439
+    },
+    {
+      "title": "3.3 — Mainly be Safe for Work",
+      "description": "Servers with Not Safe for Work channels are only acceptable if the server isn't mainly focused on adult content themes.",
+      "color": 1725439
+    },
+    {
+      "title": "3.4 — Cannot be Based on Stranger Chat Platforms",
+      "description": "Other than Discord, servers based on platforms such as Omegle, Emerald Chat, Chatroulette, or similar platforms aren't safe. They have a reputation for anonymous and unreportable illegal activities since they don't require signing up.",
+      "color": 1725439
+    },
+    {
+      "title": "3.5 — No Altering or Hiding our Ad",
+      "description": "Follow the instructions of the partner manager or admin. Just copy-paste the ad in your server's partnership channel and ensure we have done the same.",
+      "color": 1725439
+    },
+    {
+      "color": 1725439,
+      "fields": [
+        {
+          "name": "Instructions",
+          "value": "Just reach out to an available partner manager via direct message or file a ticket. If they're not available, reach out to an admin. If all else fails, file a ticket with us at the bottom of this channel.",
+          "inline": true
+        },
+        {
+          "name": "Penalty",
+          "value": "Your partnership ad will be removed or prohibited if our partner managers or admins find out you broke these rules.",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
