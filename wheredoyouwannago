@@ -8,31 +8,42 @@
       }
     },
     {
+      "title": "Click the blue to go there",
       "color": 16724869,
       "fields": [
         {
           "name": "** **",
-          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\n\nLearn about the server.",
+          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\n<:lm_bulletpoint:880943308753481808>Introduction",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\n\nPick a named color and customize your settings.",
+          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\n<:lm_bulletpoint:880943308753481808>Name color\n<:lm_bulletpoint:880943308753481808>About yourself",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\n\nLearn about what is and isn't allowed here.",
+          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\n<:lm_bulletpoint:880943308753481808>Discord\n<:lm_bulletpoint:880943308753481808>General\n<:lm_bulletpoint:880943308753481808>Voice Chat\n<:lm_bulletpoint:880943308753481808>Partnerships",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "***[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)***\n\nSupport us if you want some extra perks and bypass levels.",
+          "value": "[Levels](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Perks\n<:lm_bulletpoint:880943308753481808>Commands\n<:lm_bulletpoint:880943308753481808>Leaderboard",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\n\nIf you need to speak to us, please don't hesitate to ask!",
+          "value": "[Verify Selfie](https://discord.com/channels/776254469327421470/877692417149648958/878009252600508456)\n<:lm_bulletpoint:880943308753481808>Unlock posting in <#776254473953607687>\n<:lm_bulletpoint:880943308753481808>Prove your legitimacy",
+          "inline": true
+        },
+        {
+          "name": "** **",
+          "value": "***[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)***\n<:lm_bulletpoint:880943308753481808>Booster perks\n<:lm_bulletpoint:880943308753481808>Donation perks for cheaper",
+          "inline": true
+        },
+        {
+          "name": "** **",
+          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Report a user and/or issue with the server\n<:lm_bulletpoint:880943308753481808>Verify me to post in selfies\n<:lm_bulletpoint:880943308753481808>Partnership with the server\n<:lm_bulletpoint:880943308753481808>Apply to join the staff",
           "inline": true
         }
       ]
