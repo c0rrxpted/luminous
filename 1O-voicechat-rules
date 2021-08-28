@@ -9,64 +9,51 @@
     },
     {
       "title": "2.1 — No Earrape",
+      "description": "Disturbing and potentially damaging hearing of users with loudness.",
       "color": 1725439,
       "fields": [
         {
-          "name": "Description",
-          "value": "Creating loud sounds with your mic or by commanding a music bot. This disrupts others and risks damages their hearing.",
+          "name": "Examples",
+          "value": "<:lm_bulletpoint:880943308753481808>Blasting loud noises in the background or with a music bot\n<:lm_bulletpoint:880943308753481808>Loud breathing, echoing, or raising your voice",
           "inline": true
         },
         {
           "name": "Penalty",
-          "value": "`mute`",
+          "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
       ]
     },
     {
       "title": "2.2 — No Streaming Pirated or Not Safe for Work Content",
+      "description": "Streaming pirated content risks causing Digital Millenium Copyright Act violations. It's also against Discord to stream porn or gore.",
       "color": 1725439,
       "fields": [
         {
-          "name": "Description",
-          "value": "Streaming risks causing Digital Millenium Copyright Act violations. It's also against Discord to stream porn or gore, as it's also unethical.",
+          "name": "Examples",
+          "value": "<:lm_bulletpoint:880943308753481808>Streaming movies through services such as Netflix, Disney+, Crunchyroll, or illegal platforms\n<:lm_bulletpoint:880943308753481808>Streaming sexual activity, gore, nudity, or crimes",
           "inline": true
         },
         {
           "name": "Penalty",
-          "value": "`mute`",
+          "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
       ]
     },
     {
-      "title": "2.3 — No Hogging",
+      "title": "2.3 — No Disrupting",
+      "description": "Interfering with the calls via commands or toggles.",
       "color": 1725439,
       "fields": [
         {
-          "name": "Description",
-          "value": "Setting your channel to 1 or 2 people. If you want to talk one-on-one with someone, just call them via direct messages. Otherwise, this creates pointless channels that are only in the way.",
+          "name": "Examples",
+          "value": "<:lm_bulletpoint:880943308753481808>Skipping music bot audio before it starts or commanding long audio\n<:lm_bulletpoint:880943308753481808>Commanding music bots to leave when someone's listening\n<:lm_bulletpoint:880943308753481808>Spamming joining and leaving",
           "inline": true
         },
         {
           "name": "Penalty",
-          "value": "`mute`",
-          "inline": true
-        }
-      ]
-    },
-    {
-      "title": "2.4 — No Disrupting",
-      "color": 1725439,
-      "fields": [
-        {
-          "name": "Description",
-          "value": "Intentionally skipping a bunch of music for the sake of being rude, playing long music to delay other music, or repetitively joining or leaving the call in a short time frame to make notification sounds.",
-          "inline": true
-        },
-        {
-          "name": "Penalty",
-          "value": "`mute`",
+          "value": "First 3 times - `mute`, more `ban`",
           "inline": true
         }
       ]
