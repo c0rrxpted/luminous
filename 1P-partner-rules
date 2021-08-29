@@ -29,7 +29,7 @@
     },
     {
       "title": "3.5 — No Altering or Hiding our Ad",
-      "description": "Follow the instructions of the partner manager or admin. Just copy-paste the ad in your server's partnership channel and ensure we have done the same.",
+      "description": "Follow the instructions of a partner manager or an admin. Just copy-paste the ad in your server's partnership channel and ensure we have done the same.",
       "color": 1725439
     },
     {
@@ -37,7 +37,7 @@
       "fields": [
         {
           "name": "Instructions",
-          "value": "Just reach out to an available partner manager via direct message or file a ticket. If they're not available, reach out to an admin. If all else fails, file a ticket with us at the bottom of this channel.",
+          "value": "<:lm_bulletpoint:880943308753481808>Contact an available partner manager via direct message or file a ticket \n<:lm_bulletpoint:880943308753481808>If they're not available, reach out to an admin\n<:lm_bulletpoint:880943308753481808>If all else fails, file a ticket with us at the bottom of this channel.",
           "inline": true
         },
         {
