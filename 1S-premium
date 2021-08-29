@@ -12,12 +12,15 @@
     },
     {
       "title": "Tier 1 — Basic/Booster",
-      "description": "Billed monthly. FREE Trial.\n\n$2.49 USD (Test patreon subscriptions)\n-------------\nper month\n\nor\n\n$20 USD\n-----------------\nper year\n\n• Bright and black color roles\n• Bypass levels 0-30\n• Appear higher than level 125\n\nNOTE: CREATE PRICE IMAGES",
-      "color": 5371035
+      "description": "Billed monthly. FREE Trial.\n\n$2.49 USD (Test Patreon subscriptions)\n-------------\nper month\n\nor\n\n$20 USD\n-----------------\nper year\n\n<a:lm_boost:881653040946503750> or buying Discord Nitro for $9.99 USD/month\n\n<:lm_bulletpoint2:881638964853870592>Bright and black color roles\n<:lm_bulletpoint2:881638964853870592>Bypass levels 0-30\n<:lm_bulletpoint2:881638964853870592>Appear higher than level 125\n\nNOTE: CREATE PRICE IMAGES",
+      "color": 5371035,
+      "thumbnail": {
+        "url": "https://i.imgur.com/Jbbsudq.gif"
+      }
     },
     {
       "title": "Tier 2 — Pro",
-      "description": "Billed monthly.",
+      "description": "Billed monthly.\n\n<:lm_bulletpoint2:881638964853870592> Tier 1 perks\n<:lm_bulletpoint2:881638964853870592>\n<:lm_bulletpoint2:881638964853870592>",
       "color": 5371035
     },
     {
