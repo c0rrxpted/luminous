@@ -8,43 +8,36 @@
       }
     },
     {
-      "title": "Click the blue to go there",
+      "title": "Click where you want to go",
       "color": 16724869,
       "fields": [
         {
           "name": "** **",
-          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\n<:lm_bulletpoint:880943308753481808>Introduction",
-          "inline": true
+          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\n<:lm_bulletpoint:880943308753481808>Introduction"
         },
         {
           "name": "** **",
-          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\n<:lm_bulletpoint:880943308753481808>Name color\n<:lm_bulletpoint:880943308753481808>About yourself",
-          "inline": true
+          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\n<:lm_bulletpoint:880943308753481808>Name color\n<:lm_bulletpoint:880943308753481808>About yourself"
         },
         {
           "name": "** **",
-          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\n<:lm_bulletpoint:880943308753481808>Discord\n<:lm_bulletpoint:880943308753481808>General\n<:lm_bulletpoint:880943308753481808>Voice Chat\n<:lm_bulletpoint:880943308753481808>Partnerships",
-          "inline": true
+          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\n<:lm_bulletpoint:880943308753481808>Discord\n<:lm_bulletpoint:880943308753481808>General\n<:lm_bulletpoint:880943308753481808>Voice Chat\n<:lm_bulletpoint:880943308753481808>Partnerships"
         },
         {
           "name": "** **",
-          "value": "[Levels](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Perks\n<:lm_bulletpoint:880943308753481808>Commands\n<:lm_bulletpoint:880943308753481808>Leaderboard",
-          "inline": true
+          "value": "[Levels](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Perks\n<:lm_bulletpoint:880943308753481808>Commands\n<:lm_bulletpoint:880943308753481808>Leaderboard"
         },
         {
           "name": "** **",
-          "value": "[Verify Selfie](https://discord.com/channels/776254469327421470/877692417149648958/878009252600508456)\n<:lm_bulletpoint:880943308753481808>Unlock posting in <#776254473953607687>\n<:lm_bulletpoint:880943308753481808>Prove your legitimacy",
-          "inline": true
+          "value": "[Verify Selfie](https://discord.com/channels/776254469327421470/877692417149648958/878009252600508456)\n<:lm_bulletpoint:880943308753481808>Unlock posting in <#776254473953607687>\n<:lm_bulletpoint:880943308753481808>Prove your legitimacy"
         },
         {
           "name": "** **",
-          "value": "***[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)***\n<:lm_bulletpoint:880943308753481808>Booster perks\n<:lm_bulletpoint:880943308753481808>Donation perks for cheaper",
-          "inline": true
+          "value": "***[◦ Premium ◦ ◯](https://github.com/c0rrxpted/luminous/tree/main)***\n<:lm_bulletpoint:880943308753481808>Booster perks\n<:lm_bulletpoint:880943308753481808>Donation perks for cheaper"
         },
         {
           "name": "** **",
-          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Report a user and/or issue with the server\n<:lm_bulletpoint:880943308753481808>Verify me to post in selfies\n<:lm_bulletpoint:880943308753481808>Partnership with the server\n<:lm_bulletpoint:880943308753481808>Apply to join the staff",
-          "inline": true
+          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\n<:lm_bulletpoint:880943308753481808>Report a user and/or issue with the server\n<:lm_bulletpoint:880943308753481808>Verify me to post in selfies\n<:lm_bulletpoint:880943308753481808>Partnership with the server\n<:lm_bulletpoint:880943308753481808>Apply to join the staff"
         }
       ]
     }
