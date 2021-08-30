@@ -3,6 +3,10 @@
   "embeds": [
     {
       "color": 16737955,
+      "footer": {
+        "text": "Caution: It's possible to lie about your age. Someone may not be who they claim to be, so be careful with you trust.",
+        "icon_url": "https://i.imgur.com/4hlLoVS.png"
+      },
       "image": {
         "url": "https://i.imgur.com/KrdZa7j.png"
       }
