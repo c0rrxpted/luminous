@@ -26,7 +26,7 @@
     },
     {
       "title": "1.2 — English Only",
-      "description": "Using non-English languages that confuse users.",
+      "description": "Don't use non-English languages, as that confuses our demographic.",
       "color": 1725439,
       "fields": [
         {
@@ -48,7 +48,7 @@
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Prejudice against age, gender, sexual orientation, ethnicity, or religion\n<:lm_bulletpoint:880943308753481808>Bringing up the negative past or censored drama\n<:lm_bulletpoint:880943308753481808>Dragging politics into topics\n<:lm_bulletpoint:880943308753481808>Telling users to convert ideologies",
+          "value": "<:lm_bulletpoint:880943308753481808>Prejudice against age, gender, sexual orientation, ethnicity, or religion\n<:lm_bulletpoint:880943308753481808>Bringing up the negative past or censored drama\n<:lm_bulletpoint:880943308753481808>Telling users to convert ideologies\n<:lm_bulletpoint:880943308753481808>Dragging politics into topics",
           "inline": true
         },
         {
