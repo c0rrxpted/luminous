@@ -36,8 +36,8 @@
       "color": 1725439,
       "fields": [
         {
-          "name": "Instructions",
-          "value": "<:lm_bulletpoint:880943308753481808>Contact an available partner manager via direct message or file a ticket \n<:lm_bulletpoint:880943308753481808>If they're not available, reach out to an admin\n<:lm_bulletpoint:880943308753481808>If all else fails, file a ticket with us at the bottom of this channel.",
+          "name": "How to Partner",
+          "value": "<:lm_bulletpoint:880943308753481808>Contact an available partner manager via direct message. If they're not available, reach out to an admin. Otherwise, file a ticket.\n<:lm_bulletpoint:880943308753481808>Once both parties agree on each other's terms, post our ad on your server, as we do the same for your ad on ours.",
           "inline": true
         },
         {
