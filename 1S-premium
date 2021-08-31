@@ -4,20 +4,19 @@
     {
       "color": 5371035,
       "author": {
-        "name": "◦ Premium ◦ ◯"
+        "name": "Premium"
+      },
+      "footer": {
+        "text": "Pro tip: The premium subscriptions are integrated to work on any other Luminous server.",
+        "icon_url": "https://i.imgur.com/0Xfbq5y.png"
       },
       "image": {
         "url": "https://i.imgur.com/6cyFnqk.gif"
       }
     },
     {
-      "title": "Tier 1 — Crescent Moon/Booster",
-      "description": "**$2.49 USD**/month\n\nFree-1 month trial.\n\n<a:lm_boost:881653040946503750> or Discord Nitro boosting for $9.99 USD/month\n\n**<:lm_bulletpoint2:881638964853870592>Universal perks below for all Luminous-based servers\n<:lm_bulletpoint2:881638964853870592>Unlock bright and black color roles\n<:lm_bulletpoint2:881638964853870592>Appear higher than level 125\n<:lm_bulletpoint2:881638964853870592>Bypass levels 0-30**",
-      "url": "https://www.patreon.com/wlop/posts",
+      "title": "Tier 1 — Crescent Moon",
       "color": 5371035,
-      "footer": {
-        "text": "These perks will universally benefit you in all of our other server branches."
-      },
       "image": {
         "url": "https://i.imgur.com/l9RfVtI.gif"
       },
@@ -27,12 +26,7 @@
     },
     {
       "title": "Tier 2 — Half Moon",
-      "description": "**$5.5 USD**/month\n\nFree-1 month trial.\n\n<:lm_bulletpoint2:881638964853870592>Universal perks below for all Luminous-based servers\n<:lm_bulletpoint2:881638964853870592>Unlock bright and black color roles\n<:lm_bulletpoint2:881638964853870592>Appear higher than level 125\n<:lm_bulletpoint2:881638964853870592>Bypass levels 0-30\n\n**<:lm_bulletpoint2:881638964853870592> Bypass levels 31-75\n<:lm_bulletpoint2:881638964853870592> Less competitive giveaways\n<:lm_bulletpoint2:881638964853870592> Custom rank card**",
-      "url": "https://www.patreon.com/wlop/posts",
       "color": 5371035,
-      "footer": {
-        "text": "These perks will universally benefit you in all of our other server branches."
-      },
       "image": {
         "url": "https://i.imgur.com/BHaAbAo.gif"
       },
@@ -42,12 +36,7 @@
     },
     {
       "title": "Tier 3 — Full Moon",
-      "description": "**$6 USD**/month\n\nFree-1 month trial.\n\n<:lm_bulletpoint2:881638964853870592>Universal perks below for all Luminous-based servers\n<:lm_bulletpoint2:881638964853870592>Unlock bright and black color roles\n<:lm_bulletpoint2:881638964853870592>Appear higher than level 125\n<:lm_bulletpoint2:881638964853870592>Bypass levels 0-30\n\n<:lm_bulletpoint2:881638964853870592> Bypass levels 31-75\n<:lm_bulletpoint2:881638964853870592> Less competitive giveaways\n<:lm_bulletpoint2:881638964853870592> Custom rank card\n\n**<:lm_bulletpoint2:881638964853870592>Hosting the highest quality voice chat audio\n<:lm_bulletpoint2:881638964853870592>Early access to beta features\n<:lm_bulletpoint2:881638964853870592>33% discount for promos +**",
-      "url": "https://www.patreon.com/wlop/posts",
       "color": 5371035,
-      "footer": {
-        "text": "These perks will universally benefit you in all of our other server branches."
-      },
       "image": {
         "url": "https://i.imgur.com/ef2i0tV.gif"
       },
