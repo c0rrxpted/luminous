@@ -7,11 +7,11 @@
         "name": "Premium"
       },
       "footer": {
-        "text": "Pro tip: The premium subscriptions are integrated to work on any other Luminous server.",
+        "text": "Pro tip: The premium subscriptions work on any other Luminous server.",
         "icon_url": "https://i.imgur.com/0Xfbq5y.png"
       },
       "image": {
-        "url": "https://i.imgur.com/6cyFnqk.gif"
+        "url": "https://i.imgur.com/oFtFBK9.gif"
       }
     },
     {
@@ -49,6 +49,7 @@
     },
     {
       "title": "Booster",
+      "description": "**$9.99 USD**/month\n\nSame perks as Tier. This increases the server level which will benefit everyone with: \n\n<a:lm_boost:881653040946503750> Server banner on top\n<a:lm_boost:881653040946503750> More emotes\n<a:lm_boost:881653040946503750> Higher quality streaming\n<a:lm_boost:881653040946503750> Vanity URL `discord.gg/luminous`",
       "color": 16023551,
       "thumbnail": {
         "url": "https://i.imgur.com/Jbbsudq.gif"
