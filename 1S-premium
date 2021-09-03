@@ -16,6 +16,7 @@
     },
     {
       "title": "Crescent Moon",
+      "description": "Get some starter perks. It's the cheapest alternative to Discord Nitro boosting, only costing a third of its price.",
       "url": "https://www.canva.com/folder/all-designs",
       "color": 5371035,
       "fields": [
@@ -33,6 +34,7 @@
     },
     {
       "title": "Half Moon",
+      "description": "Take your perks to the next level and emerge yourself into a higher-end experience.",
       "url": "https://www.canva.com/design/DAEonkHkK4g/LZ94FN48r8W4xLD9AXAKTA/edit",
       "color": 5371035,
       "fields": [
@@ -50,6 +52,7 @@
     },
     {
       "title": "Full Moon",
+      "description": "Unveil the highest quality experience for only a dollar more than Tier 2.",
       "url": "https://corryinthehouse.imgur.com/all/",
       "color": 5371035,
       "fields": [
@@ -76,7 +79,7 @@
         }
       ],
       "footer": {
-        "text": "Caution: The booster subscription doesn't provide the Tier 1 perks on other Luminous servers, only this one.",
+        "text": "Caution: The booster subscription doesn't provide the Tier 1 perks on other Luminous servers but only this one.",
         "icon_url": "https://i.imgur.com/4hlLoVS.png"
       },
       "thumbnail": {
