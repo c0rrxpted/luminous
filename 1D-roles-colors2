@@ -3,8 +3,12 @@
   "embeds": [
     {
       "color": 16737955,
+      "footer": {
+        "text": "Pro tip: Subscribing to our premium services or boosting the server will unlock these roles.",
+        "icon_url": "https://i.imgur.com/0Xfbq5y.png"
+      },
       "image": {
-        "url": "https://i.imgur.com/l3bJT2i.png"
+        "url": "https://i.imgur.com/GrDojAM.png"
       }
     }
   ]
