@@ -70,12 +70,12 @@
     },
     {
       "title": "Booster",
-      "description": "This has the same perks as Tier 1 and this also increases the server level; benefiting everyone with these features:",
+      "description": "Get the same perks as Tier 1 and this also increases the server level; benefiting everyone with these features:",
       "color": 16023551,
       "fields": [
         {
           "name": "$9.99 USD/month",
-          "value": "<a:lm_boost:881653040946503750> Animated icon\n<a:lm_boost:881653040946503750> Sending larger files\n<a:lm_boost:881653040946503750> Server banner on top\n<a:lm_boost:881653040946503750> More emotes and stickers\n<a:lm_boost:881653040946503750> Higher quality streaming and calls\n<a:lm_boost:881653040946503750> Vanity link `discord.gg/luminous`"
+          "value": "<:lm_bulletpoint3:883476649205727252>Animated icon\n<:lm_bulletpoint3:883476649205727252>Sending larger files\n<:lm_bulletpoint3:883476649205727252>Server banner on top\n<:lm_bulletpoint3:883476649205727252> More emotes and stickers\n<:lm_bulletpoint3:883476649205727252>Higher quality streaming and calls\n<:lm_bulletpoint3:883476649205727252>Vanity link `discord.gg/luminous`"
         }
       ],
       "footer": {
