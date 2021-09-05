@@ -3,6 +3,10 @@
   "embeds": [
     {
       "color": 16737955,
+      "footer": {
+        "text": "Pro tip: Don't miss out on what's happening or new.",
+        "icon_url": "https://i.imgur.com/0Xfbq5y.png"
+      },
       "image": {
         "url": "https://i.imgur.com/cKricrn.png"
       }
