@@ -14,7 +14,7 @@
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Sending nudity, pornography, imagery of gore, or self-harm \n<:lm_bulletpoint:880943308753481808>Minor members flirting or being romanticized\n<:lm_bulletpoint:880943308753481808>Talking about or roleplaying sexual activities",
+          "value": "<:lm_bulletpoint:880943308753481808>Sending nudity, pornography, imagery of gore, or self-harm \n<:lm_bulletpoint:880943308753481808>Minors flirting or being romanticized\n<:lm_bulletpoint:880943308753481808>Talking about or roleplaying sexual activities",
           "inline": true
         },
         {
@@ -48,7 +48,7 @@
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Prejudice against age, gender, sexual orientation, ethnicity, or religion\n<:lm_bulletpoint:880943308753481808>Bringing up the negative past or censored drama\n<:lm_bulletpoint:880943308753481808>Telling users to convert ideologies\n<:lm_bulletpoint:880943308753481808>Dragging politics into topics",
+          "value": "<:lm_bulletpoint:880943308753481808>Prejudice against age, gender, sexual orientation, ethnicity, or religion\n<:lm_bulletpoint:880943308753481808>Bringing up the negative past or censored drama\n<:lm_bulletpoint:880943308753481808>Telling users to convert ideologies\n<:lm_bulletpoint:880943308753481808>Boycotting the server anywhere\n<:lm_bulletpoint:880943308753481808>Dragging politics into topics",
           "inline": true
         },
         {
@@ -65,7 +65,7 @@
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Large walls of text such as paragraphs or copypasta\n<:lm_bulletpoint:880943308753481808>Constant messages in a short period of time\n<:lm_bulletpoint:880943308753481808>Sending server codes or link modifiers\n<:lm_bulletpoint:880943308753481808>Direct message advertisements",
+          "value": "<:lm_bulletpoint:880943308753481808>Large walls of text such as paragraphs or copypasta\n<:lm_bulletpoint:880943308753481808>Repetitively triggering bots in the chat channel\n<:lm_bulletpoint:880943308753481808>Constant messages in a short period of time\n<:lm_bulletpoint:880943308753481808>Sending server codes or link modifiers\n<:lm_bulletpoint:880943308753481808>Direct message advertisements",
           "inline": true
         },
         {
@@ -93,13 +93,13 @@
       ]
     },
     {
-      "title": "1.6 — No Bypassing Censored Words",
-      "description": "Trying to or managing to go past auto censored words or context.",
+      "title": "1.6 — No Bypassing Security",
+      "description": "Trying to or managing to go past any form of moderation.",
       "color": 1725439,
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Overwhelming the bot by typing too fast or when it's offline for maintenance\n<:lm_bulletpoint:880943308753481808>Using numbers, emotes, stickers, or images that our bots can't detect",
+          "value": "<:lm_bulletpoint:880943308753481808>Overwhelming the bot by typing too fast or when it's offline for maintenance\n<:lm_bulletpoint:880943308753481808>Joining with alternative accounts, especially when averting penalties\n<:lm_bulletpoint:880943308753481808>Using numbers, emotes, stickers, or images that our bots can't detect",
           "inline": true
         },
         {
