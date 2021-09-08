@@ -9,12 +9,12 @@
     },
     {
       "title": "1.1 — Keep it Safe for Work",
-      "description": "Don't mention or display any form of inappropriate content, especially with minors.",
+      "description": "We aren't a dating server. Don't mention or display any form of inappropriate content, especially with minors.",
       "color": 1725439,
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Sending nudity, pornography, imagery of gore, or self-harm \n<:lm_bulletpoint:880943308753481808>Minors flirting or being romanticized\n<:lm_bulletpoint:880943308753481808>Talking about or roleplaying sexual activities",
+          "value": "<:lm_bulletpoint:880943308753481808>Sending nudity, pornography, imagery of gore, or self-harm \n<:lm_bulletpoint:880943308753481808>Talking about or roleplaying sexual activities\n<:lm_bulletpoint:880943308753481808>Expressing flirting or romanticizing",
           "inline": true
         },
         {
