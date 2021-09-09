@@ -18,18 +18,23 @@
       "color": 1725439
     },
     {
-      "title": "3.3 — Mainly be Safe for Work",
+      "title": "3.3 — No Editing or Hiding our Ad",
+      "description": "Follow the instructions of a partner manager or an admin. Just copy-paste the ad in your server's partnership channel and ensure we have done the same. The ad must not show that it was edited. The channel must be visible by default for users with the exception of hiding it with a role menu. It has to label \"partner\" or \"link\". It also can't have automatic partnerships hiding our ad from being seen.",
+      "color": 1725439
+    },
+    {
+      "title": "3.4 — Mainly be Safe for Work",
       "description": "Servers with Not Safe for Work channels are only acceptable if the server isn't mainly focused on adult content themes.",
       "color": 1725439
     },
     {
-      "title": "3.4 — Cannot be Based on Stranger Chat Platforms",
-      "description": "Other than Discord, servers based on platforms such as Omegle, Emerald Chat, Chatroulette, or similar platforms aren't safe. They have a reputation for anonymous and unreportable illegal activities since they don't require signing up.",
+      "title": "3.5 — Can't be a Dating Server",
+      "description": "We're a server for anyone 13+, so it's inappropriate and dangerous to promote these types of servers to our audience.",
       "color": 1725439
     },
     {
-      "title": "3.5 — No Altering or Hiding our Ad",
-      "description": "Follow the instructions of a partner manager or an admin. Just copy-paste the ad in your server's partnership channel and ensure we have done the same.",
+      "title": "3.6 — Can't be Based on Stranger Chat Platforms",
+      "description": "Other than Discord, servers based on platforms such as Omegle, Emerald Chat, Chatroulette, or similar platforms aren't safe. They have a reputation for anonymous and unreportable illegal activities since they don't require signing up.",
       "color": 1725439
     },
     {
@@ -37,12 +42,12 @@
       "fields": [
         {
           "name": "How to Partner",
-          "value": "<:lm_bulletpoint:880943308753481808>Contact an available partner manager via direct message. If they're not available, reach out to an admin. Otherwise, file a ticket.\n<:lm_bulletpoint:880943308753481808>Once both parties agree on each other's terms, post our ad on your server, as we do the same for your ad on ours.",
+          "value": "<:lm_bulletpoint:880943308753481808>Contact an available partner manager via direct message. If they're not available, reach out to an admin. Otherwise, file a ticket\n<:lm_bulletpoint:880943308753481808>Once both parties agree on each other's terms, post our ad on your server, as we do the same for your ad on ours",
           "inline": true
         },
         {
           "name": "Penalty",
-          "value": "Your partnership ad will be removed or prohibited if our partner managers or admins find out you broke these rules.",
+          "value": "Your partnership ad will be removed and your server will be blacklisted from partnering with us again. We may also notify your manager staff.",
           "inline": true
         }
       ]
