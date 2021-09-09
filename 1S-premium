@@ -7,7 +7,7 @@
         "name": "Premium"
       },
       "footer": {
-        "text": "Pro tip: The premium subscriptions work on any other Luminous server.",
+        "text": "Pro tip: The premium subscriptions work on any other Luminous server. These servers don't exist as of yet but will be in development once we're big enough.",
         "icon_url": "https://i.imgur.com/0Xfbq5y.png"
       },
       "image": {
@@ -75,11 +75,11 @@
       "fields": [
         {
           "name": "$9.99 USD/month",
-          "value": "<:lm_bulletpoint3:883476649205727252>Animated icon\n<:lm_bulletpoint3:883476649205727252>Sending larger files\n<:lm_bulletpoint3:883476649205727252>Server banner on top\n<:lm_bulletpoint3:883476649205727252> More emotes and stickers\n<:lm_bulletpoint3:883476649205727252>Higher quality streaming and calls\n<:lm_bulletpoint3:883476649205727252>Vanity link `discord.gg/luminous`"
+          "value": "<:lm_bulletpoint3:883476649205727252>Animated icon\n<:lm_bulletpoint3:883476649205727252>Sending larger files\n<:lm_bulletpoint3:883476649205727252>Server banner on top\n<:lm_bulletpoint3:883476649205727252>More emotes and stickers\n<:lm_bulletpoint3:883476649205727252>Higher quality streaming and calls\n<:lm_bulletpoint3:883476649205727252>Vanity link, `discord.gg/luminous`"
         }
       ],
       "footer": {
-        "text": "Caution: The booster subscription doesn't provide the Tier 1 perks on other Luminous servers but only this one.",
+        "text": "Caution: The booster tier of premium only provide the benefits to the server that you boosted, as this is limited to Discord's own integration.",
         "icon_url": "https://i.imgur.com/4hlLoVS.png"
       },
       "thumbnail": {
