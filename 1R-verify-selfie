@@ -17,11 +17,13 @@
       "fields": [
         {
           "name": "Step 1 — Contact our Security",
-          "value": "Send an image of yourself holding a sign saying \"luminous\" to an available mod or admin. Adding your username is optional."
+          "value": "Send an image of yourself holding a handwritten sign displaying \"luminous\". This can be direct messaged to an available mod or admin; alternatively done through our [ticket](https://corryinthehouse.imgur.com/all/) system. Adding your username is optional.",
+          "inline": true
         },
         {
           "name": "Step 2 — Wait for Confirmation",
-          "value": "Once they approve your submission, you'll unlock the channel by getting the verified role."
+          "value": "Once they approve your submission, you'll unlock the channel by getting the verified role.",
+          "inline": true
         }
       ],
       "image": {
