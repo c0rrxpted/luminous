@@ -7,12 +7,12 @@
       "fields": [
         {
           "name": "Why care about us?",
-          "value": "We'll help you make friends as safely and easily as possible. We offer freedom of customization with your experience and profile. Our experienced staff will help you if you need anything.",
+          "value": "Anyone that's allowed on Discord. Whether you enjoy gaming, art, anime, or making music, there's always something to talk about.",
           "inline": true
         },
         {
           "name": "Who's this server for?",
-          "value": "Anyone that's allowed on Discord. Whether you enjoy gaming, art, anime, or making music, there's always something to talk about. We recommend that you're at least 16 years old, but 13 years old is the minimum age. To be a mod or an admin, you have to be at least 18 years old.",
+          "value": "You'll belong to a community with ease and safety. We offer freedom of customization with your experience.",
           "inline": true
         }
       ],
@@ -26,10 +26,10 @@
     {
       "color": 16724869,
       "author": {
-        "name": "Welcome"
+        "name": "Verify"
       },
       "image": {
-        "url": "https://i.imgur.com/0WxF54c.gif"
+        "url": "https://i.imgur.com/OLvmN44.gif"
       }
     }
   ]
