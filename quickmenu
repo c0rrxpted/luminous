@@ -11,42 +11,42 @@
       }
     },
     {
-      "title": "Click where you want to go",
+      "title": "Click the blue text to get there.",
       "color": 16724869,
       "fields": [
         {
           "name": "** **",
-          "value": "[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)\nA brief introduction about why you might like this server.",
+          "value": "**[About us](https://discord.com/channels/776254469327421470/877692417149648958/878007840999100506)**\nA brief introduction about why you might like this server.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)\nGet a colored name, express yourself, and customize your settings.",
+          "value": "**[Roles](https://discord.com/channels/776254469327421470/877692417149648958/878008294046830622)**\nGet a colored name, express yourself, and customize your settings.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)\nGet to know your limits within the server and about our partnerships.",
+          "value": "**[Rules](https://discord.com/channels/776254469327421470/877692417149648958/878008670057807882)**\nGet to know your limits within the server and about our partnerships.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Levels](https://discord.com/channels/776254469327421470/877692417149648958/878009251287687168)\nLearn about the cool perks you get for participating in the server and how to view your rank.",
+          "value": "**[Levels](https://discord.com/channels/776254469327421470/877692417149648958/878009251287687168)**\nLearn about the cool perks you get for participating in the server and how to view your rank.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Verify Selfie](https://discord.com/channels/776254469327421470/877692417149648958/878009252600508456)\nUnlock access to the selfies channel and show others that you're legit.",
+          "value": "**[Verify Selfie](https://discord.com/channels/776254469327421470/877692417149648958/878009252600508456)**\nUnlock access to the selfies channel and show others that you're legit.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "***[Premium](https://discord.com/channels/776254469327421470/877692417149648958/878009293197160478)***\nGet perks that even our levels don't cover. You can either support us by subscribing to our Patreon or by boosting the server.",
+          "value": "***[<:lm_bulletpoint2:881638964853870592>Premium ◦ ◯](https://discord.com/channels/776254469327421470/877692417149648958/878009293197160478)***\nGet perks that even our levels don't cover. You can either support us by subscribing to our Patreon or by boosting the server.",
           "inline": true
         },
         {
           "name": "** **",
-          "value": "[Contact us](https://github.com/c0rrxpted/luminous/tree/main)\nGet live help with staff for any inquiries regarding the server.",
+          "value": "**[Contact the Staff](https://discord.com/channels/776254469327421470/877692417149648958/886728413585473598)**\nGet live assistance regarding the server.",
           "inline": true
         }
       ],
