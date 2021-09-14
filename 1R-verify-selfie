@@ -18,17 +18,15 @@
       "fields": [
         {
           "name": "Step 1 — Contact our Security",
-          "value": "Send an image of your full face and you holding a handwritten sign displaying \"luminous\". This can be direct messaged to an available mod or admin; alternatively done through our [ticket](https://corryinthehouse.imgur.com/all/) system. Adding your username is optional.",
-          "inline": true
+          "value": "Send an image of your full face and you holding a handwritten sign displaying \"luminous\". This can be direct messaged to an available mod or admin; alternatively done through our [ticket](https://discord.com/channels/776254469327421470/877692417149648958/886728413585473598) system. Adding your username is optional."
         },
         {
           "name": "Step 2 — Wait for Confirmation",
-          "value": "Once they approve your submission, you'll unlock the channel by getting the verified role.",
-          "inline": true
+          "value": "Once they approve your submission, you'll unlock the channel by getting the verified role."
         }
       ],
       "image": {
-        "url": "https://i.imgur.com/npD0tCl.png"
+        "url": "https://i.imgur.com/KWWUxos.png"
       }
     }
   ]
