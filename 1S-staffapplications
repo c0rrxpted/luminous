@@ -1,0 +1,84 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "description": "**[Quick Menu](https://discord.com/channels/776254469327421470/877692417149648958/878449922674925589)**",
+      "color": 16724869,
+      "author": {
+        "name": "Staff Applications"
+      },
+      "image": {
+        "url": "https://i.imgur.com/sW2wUbn.gif"
+      }
+    },
+    {
+      "title": "Partner Manager",
+      "description": "The most powerful staff that's below the owner. You'll be responsible to lead the community and complete deadlined tasks in the areas you specialize in.",
+      "url": "https://www.tradingview.com/ideas/list/",
+      "color": 16737955,
+      "fields": [
+        {
+          "name": "Requirements",
+          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
+          "inline": true
+        },
+        {
+          "name": "Tasks",
+          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
+          "inline": true
+        },
+        {
+          "name": "Specialties",
+          "value": "<:lm_bulletpoint:880943308753481808>Hosting events, keeping the server active, and engaging the audience, and recruiting suitable staff members\n<:lm_bulletpoint:880943308753481808>Implementing security, editing the server, managing bots, and proposing new ideas\n<:lm_bulletpoint:880943308753481808>Graphic designing, creating brand products, and video editing\n<:lm_bulletpoint:880943308753481808>Marketing, partnerships, and server analytics\n<:lm_bulletpoint:880943308753481808>Developing bots and building a website",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "Mod",
+      "description": "The most powerful staff that's below the owner. You'll be responsible to lead the community and complete deadlined tasks in the areas you specialize in.",
+      "url": "https://www.canva.com/folder/all-designs",
+      "color": 16737955,
+      "fields": [
+        {
+          "name": "Requirements",
+          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
+          "inline": true
+        },
+        {
+          "name": "Tasks",
+          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
+          "inline": true
+        },
+        {
+          "name": "Specialties",
+          "value": "<:lm_bulletpoint:880943308753481808>Hosting events, keeping the server active, and engaging the audience, and recruiting suitable staff members\n<:lm_bulletpoint:880943308753481808>Implementing security, editing the server, managing bots, and proposing new ideas\n<:lm_bulletpoint:880943308753481808>Graphic designing, creating brand products, and video editing\n<:lm_bulletpoint:880943308753481808>Marketing, partnerships, and server analytics\n<:lm_bulletpoint:880943308753481808>Developing bots and building a website",
+          "inline": true
+        }
+      ]
+    },
+    {
+      "title": "Admin",
+      "description": "The most powerful staff that's below the owner. You'll be responsible to lead the community and complete deadlined tasks in the areas you specialize in.",
+      "url": "https://www.youtube.com/watch?v=R0KrtHEx_wU&list=LL&index=3&loop=0&start=00:43&end=01:04",
+      "color": 16737955,
+      "fields": [
+        {
+          "name": "Requirements",
+          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
+          "inline": true
+        },
+        {
+          "name": "Tasks",
+          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
+          "inline": true
+        },
+        {
+          "name": "Specialties",
+          "value": "<:lm_bulletpoint:880943308753481808>Hosting events, keeping the server active, and engaging the audience, and recruiting suitable staff members\n<:lm_bulletpoint:880943308753481808>Implementing security, editing the server, managing bots, and proposing new ideas\n<:lm_bulletpoint:880943308753481808>Graphic designing, creating brand products, and video editing\n<:lm_bulletpoint:880943308753481808>Marketing, partnerships, and server analytics\n<:lm_bulletpoint:880943308753481808>Developing bots and building a website",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
