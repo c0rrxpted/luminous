@@ -13,7 +13,7 @@
     },
     {
       "title": "Partner Manager",
-      "description": "The task is simple and it doesn't have any prerequisites. Spread the word about our community.",
+      "description": "Get started right away! Spread the word about our community.",
       "url": "https://www.tradingview.com/ideas/list/",
       "color": 16737955,
       "fields": [
@@ -24,7 +24,7 @@
         },
         {
           "name": "Benefits",
-          "value": ".aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+          "value": "<:lm_bulletpoint:880943308753481808>Experience to make you a more qualified partner manager for other servers\n<:lm_bulletpoint:880943308753481808>Commission of the revenue that you made for the server\n<:lm_bulletpoint:880943308753481808>Appear high on the member list"
         }
       ]
     },
@@ -36,22 +36,17 @@
       "fields": [
         {
           "name": "Requirements",
-          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
+          "value": "<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Rational reasoning and little to no penalties\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
           "inline": true
         },
         {
           "name": "Tasks",
-          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
-          "inline": true
-        },
-        {
-          "name": "Specialties",
-          "value": "<:lm_bulletpoint:880943308753481808>Hosting events, keeping the server active, and engaging the audience, and recruiting suitable staff members\n<:lm_bulletpoint:880943308753481808>Implementing security, editing the server, managing bots, and proposing new ideas\n<:lm_bulletpoint:880943308753481808>Graphic designing, creating brand products, and video editing\n<:lm_bulletpoint:880943308753481808>Marketing, partnerships, and server analytics\n<:lm_bulletpoint:880943308753481808>Developing bots and building a website",
+          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the admins",
           "inline": true
         },
         {
           "name": "Benefits",
-          "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+          "value": "<:lm_bulletpoint:880943308753481808>Quicker response to handle rule-breaking to your intuition\n<:lm_bulletpoint:880943308753481808>Commission of the revenue that you made for the server\n<:lm_bulletpoint:880943308753481808>Access to the staff channels for quicker communication"
         }
       ]
     },
@@ -63,12 +58,12 @@
       "fields": [
         {
           "name": "Requirements",
-          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
+          "value": "<:lm_bulletpoint:880943308753481808>Demonstrate specialty in the desired field that will help the server\n<:lm_bulletpoint:880943308753481808>Previously and currently trusted by the owners\n<:lm_bulletpoint:880943308753481808>Can't be a staff for another non-topic server\n<:lm_bulletpoint:880943308753481808>Rational reasoning and little to no penalties\n<:lm_bulletpoint:880943308753481808>High level and presently active\n<:lm_bulletpoint:880943308753481808>Popular among the server",
           "inline": true
         },
         {
           "name": "Tasks",
-          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Moderating the server and maintaining the staff\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
+          "value": "<:lm_bulletpoint:880943308753481808>Being active and a positive influence within the community\n<:lm_bulletpoint:880943308753481808>Collab with other admins to complete team tasks\n<:lm_bulletpoint:880943308753481808>Rational reasoning and little to no penalties\n<:lm_bulletpoint:880943308753481808>Reporting to the owners",
           "inline": true
         },
         {
@@ -78,7 +73,7 @@
         },
         {
           "name": "Benefits",
-          "value": ".aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+          "value": "<:lm_bulletpoint:880943308753481808>Power to distribute ideas and share your vision on how to improve the server\n<:lm_bulletpoint:880943308753481808>Access to all of the channels and early access information plans\n<:lm_bulletpoint:880943308753481808>Quicker response to handle rule-breaking to your intuition\n<:lm_bulletpoint:880943308753481808>Commission of the revenue that you made for the server\n<:lm_bulletpoint:880943308753481808>Access to the staff channels for quicker communication"
         }
       ]
     }
