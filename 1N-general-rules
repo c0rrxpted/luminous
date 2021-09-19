@@ -127,13 +127,13 @@
       ]
     },
     {
-      "title": "1.8 — No Disrespecting the Staff",
+      "title": "1.8 — No Disrupting the Staff",
       "description": "Constantly causing problems with the staff.",
       "color": 1725439,
       "fields": [
         {
           "name": "Examples",
-          "value": "<:lm_bulletpoint:880943308753481808>Begging them for roles, bypassing security, updates, private server info, gifts, or shout-outs; especially after facing rejection\n<:lm_bulletpoint:880943308753481808>Creating tickets and abandoning them without any notice\n<:lm_bulletpoint:880943308753481808>Ignoring warns or follow-up questions regarding an issue\n<:lm_bulletpoint:880943308753481808>Spamming any forms or surveys\n<:lm_bulletpoint:880943308753481808>Copying the server model\n<:lm_bulletpoint:880943308753481808>Mini-modding",
+          "value": "<:lm_bulletpoint:880943308753481808>Begging them for roles, bypassing security, updates, private server info, gifts, or shout-outs; especially after facing rejection\n<:lm_bulletpoint:880943308753481808>Creating tickets and abandoning them without any notice\n<:lm_bulletpoint:880943308753481808>Ignoring warns or follow-up questions regarding an issue\n<:lm_bulletpoint:880943308753481808>Mini-modding or making false reports\n<:lm_bulletpoint:880943308753481808>Spamming any forms or surveys\n<:lm_bulletpoint:880943308753481808>Copying the server model",
           "inline": true
         },
         {
