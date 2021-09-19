@@ -3,19 +3,19 @@
   "embeds": [
     {
       "description": "**[Quick Menu](https://discord.com/channels/776254469327421470/877692417149648958/878449922674925589)**",
-      "color": 13260,
+      "color": 5793266,
       "author": {
         "name": "Rules"
       },
       "image": {
-        "url": "https://i.imgur.com/wiuZseO.gif"
+        "url": "https://i.imgur.com/0TFTnZT.gif"
       }
     },
     {
       "title": "Community Guidelines",
       "description": "Universal Discord rules to obey to prevent yourself from getting banned.",
       "url": "https://discord.com/guidelines",
-      "color": 1725439,
+      "color": 5793266,
       "thumbnail": {
         "url": "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"
       }
@@ -24,13 +24,13 @@
       "title": "Terms of Service",
       "description": "The legal side of Discord's terms that you agreed upon when you joined the platform.",
       "url": "https://discord.com/terms",
-      "color": 1725439,
+      "color": 5793266,
       "thumbnail": {
         "url": "https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"
       }
     },
     {
-      "color": 1725439,
+      "color": 5793266,
       "fields": [
         {
           "name": "Report a User",
