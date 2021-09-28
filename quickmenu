@@ -46,14 +46,6 @@
         },
         {
           "name": "** **",
-          "value": "<:lm_bulletpoint2:881638964853870592>***[Sponsors ◦ ◯](https://discord.com/channels/776254469327421470/877692417149648958/878009288767971350)***\nSupport these recommended brands to change or enhance your experience no matter where you are."
-        },
-        {
-          "name": "** **",
-          "value": "<:lm_bulletpoint2:881638964853870592>***[Premium ◦ ◯](https://discord.com/channels/776254469327421470/877692417149648958/878009293197160478)***\nGet perks that even our levels don't cover. You can either support us by subscribing to our Patreon or by boosting the server."
-        },
-        {
-          "name": "** **",
           "value": "**[Feedback](https://discord.com/channels/776254469327421470/877692417149648958/878009295969599508)**\nYour opinion matters. We will do better for your sake.",
           "inline": true
         },
@@ -67,6 +59,20 @@
         "text": "Pro tip: The \"Quick Menu\" links are the fastest way to navigate this channel.",
         "icon_url": "https://i.imgur.com/0Xfbq5y.png"
       }
+    },
+    {
+      "title": "Support us",
+      "color": 5371035,
+      "fields": [
+        {
+          "name": "** **",
+          "value": "<:lm_bulletpoint2:881638964853870592>***[Sponsors ◦ ◯](https://discord.com/channels/776254469327421470/877692417149648958/878009288767971350)***\nSupport these recommended brands to change or enhance your experience no matter where you are."
+        },
+        {
+          "name": "** **",
+          "value": "<:lm_bulletpoint2:881638964853870592>***[Premium ◦ ◯](https://discord.com/channels/776254469327421470/877692417149648958/878009293197160478)***\nGet perks that even our levels don't cover. You can either support us by subscribing to our Patreon or by boosting the server."
+        }
+      ]
     }
   ]
 }
