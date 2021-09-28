@@ -3,7 +3,7 @@
   "embeds": [
     {
       "description": "**[Quick Menu](https://discord.com/channels/776254469327421470/877692417149648958/878449922674925589)**",
-      "color": 16724869,
+      "color": 13260,
       "author": {
         "name": "Feedback"
       },
@@ -15,7 +15,7 @@
       "title": "Rate us",
       "description": "Want a chance for your suggestions to make a difference? Tell us what you would change about this server.",
       "url": "https://www.youtube.com/watch?v=0hmNoI4GiTs&list=PLHHQlVUXBdgITwPPWwpAdsw3SsU01Epyq&index=40",
-      "color": 16737955
+      "color": 1725439
     }
   ]
 }
