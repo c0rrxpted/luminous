@@ -8,11 +8,11 @@
         "name": "Premium"
       },
       "footer": {
-        "text": "Pro tip: The premium subscriptions work on any other Luminous server. These servers don't exist as of yet but will be in development once we're big enough.",
+        "text": "Pro tip: The premium subscriptions will work on any other Luminous server. These servers don't exist as of yet but will be in development if we're big enough.",
         "icon_url": "https://i.imgur.com/0Xfbq5y.png"
       },
       "image": {
-        "url": "https://i.imgur.com/oFtFBK9.gif"
+        "url": "https://i.imgur.com/orULnP9.gif"
       }
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "title": "Full Moon",
-      "description": "Unveil the highest quality experience for only a dollar more than Tier 2.",
+      "description": "Unveil the highest quality experience!",
       "url": "https://corryinthehouse.imgur.com/all/",
       "color": 5371035,
       "fields": [
@@ -80,7 +80,7 @@
         }
       ],
       "footer": {
-        "text": "Caution: The booster tier of premium only provide the benefits to the server that you boosted, as this is limited to Discord's own integration.",
+        "text": "Caution: The booster tier of a premium only provide the benefits to the server that you boosted, as this is limited to Discord's own integration.",
         "icon_url": "https://i.imgur.com/4hlLoVS.png"
       },
       "thumbnail": {
