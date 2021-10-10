@@ -13,21 +13,30 @@
     },
     {
       "title": "Partner Manager",
-      "description": "Get started right away! Spread the word about our community.",
+      "description": "Get started right away! Spread the word about our community and help us expand.",
       "url": "https://forms.gle/Z1jjngLzCg8ot9829",
-      "color": 16737955
+      "color": 16737955,
+      "thumbnail": {
+        "url": "https://i.imgur.com/Y25cETQ.png"
+      }
     },
     {
       "title": "Mod",
       "description": "Keep the server secure from attacks or instability. You also get to actively engage with the community more this way.",
       "url": "https://forms.gle/1yA7HQUCHyFfobru6",
-      "color": 16737955
+      "color": 16737955,
+      "thumbnail": {
+        "url": "https://i.imgur.com/BtbbSjd.png"
+      }
     },
     {
       "title": "Admin",
       "description": "The most powerful staff that's below the owner. You'll be responsible to lead the community and complete deadlined tasks in the areas you specialize in.",
       "url": "https://forms.gle/TkSKotkdhm9YYygB7",
-      "color": 16737955
+      "color": 16737955,
+      "thumbnail": {
+        "url": "https://i.imgur.com/hnKGTE0.png"
+      }
     }
   ]
 }
