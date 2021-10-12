@@ -12,12 +12,12 @@
       }
     },
     {
-      "description": "Message to level up and unlock perks. These can also be bypassed if you buy our premium subscriptions or boost.",
+      "description": "Message to level up your profile and become more powerful! These can also be bypassed if you buy our premium subscriptions or boost.",
       "color": 16737955,
       "fields": [
         {
           "name": "Perks",
-          "value": "<@&776254469485756463> — God mode.",
+          "value": "<@&776254469485756463>\n<@&776254469485756462>\n<@&776254469485756461>\n<@&776254469485756460>\n<@&776254469485756459>\n<@&776254469485756458>\n<@&776254469485756457>\n<@&776254469485756456>\n<@&776254469478154279>\n<@&776254469478154278>\n<@&776254469478154277>\n<@&776254469478154276>\n<@&776254469478154275>\n<@&776254469478154274>\n<@&776254469478154273>\n<@&776254469478154272>\n<@&776254469478154271>\n<@&776254469478154270>\n<@&776254469470027785>\n<@&776254469470027784>\n<@&776254469470027783>\n<@&776254469470027782>\n<@&776254469470027781>\n<@&776254469470027780>\n<@&776254469470027779>",
           "inline": true
         },
         {
@@ -25,7 +25,11 @@
           "value": "• `!rank` — see your rank card.",
           "inline": true
         }
-      ]
+      ],
+      "footer": {
+        "text": "Caution: These levels need to be legit, meaning these perks won't count if you manipulate your level with hacks or admin abuse.",
+        "icon_url": "https://i.imgur.com/4hlLoVS.png"
+      }
     }
   ]
 }
