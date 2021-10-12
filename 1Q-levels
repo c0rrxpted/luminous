@@ -22,7 +22,7 @@
         },
         {
           "name": "Commands",
-          "value": "• `!rank` — see your rank card.",
+          "value": "<:lm_bulletpoint:880943308753481808>`!rank` — view a rank card.\n<:lm_bulletpoint:880943308753481808>`!levels` — view the leaderboard.",
           "inline": true
         }
       ],
