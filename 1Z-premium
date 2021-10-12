@@ -16,48 +16,30 @@
       }
     },
     {
-      "title": "Crescent Moon",
-      "description": "Get some starter perks. It's the cheapest alternative to Discord Nitro boosting, only costing a third of its price.",
-      "url": "https://www.canva.com/folder/all-designs",
+      "title": "Tier 1",
+      "description": "Get some starter perks. This will give you a higher-end experience, and this is just the beginning.",
+      "url": "https://www.patreon.com/join/wlop/checkout?rid=142828",
       "color": 5371035,
-      "fields": [
-        {
-          "name": "$2.49 USD/month",
-          "value": "<:lm_bulletpoint2:881638964853870592>Bright and black color roles\n<:lm_bulletpoint2:881638964853870592>Bypass levels 0-25 perks\n<:lm_bulletpoint2:881638964853870592>Appear above level 125+\n<:lm_bulletpoint2:881638964853870592>"
-        }
-      ],
-      "thumbnail": {
-        "url": "https://i.imgur.com/oFN25ME.png"
+      "image": {
+        "url": "https://i.imgur.com/79cXieC.png"
       }
     },
     {
-      "title": "Half Moon",
+      "title": "Tier 2",
       "description": "Take your perks to the next level and emerge yourself into a higher-end experience.",
-      "url": "https://www.canva.com/design/DAEonkHkK4g/LZ94FN48r8W4xLD9AXAKTA/edit",
+      "url": "https://www.patreon.com/join/wlop/checkout?rid=3584268",
       "color": 5371035,
-      "fields": [
-        {
-          "name": "$5.5 USD/month",
-          "value": "<:lm_bulletpoint2:881638964853870592>"
-        }
-      ],
-      "thumbnail": {
-        "url": "https://i.imgur.com/3wsRkZg.png"
+      "image": {
+        "url": "https://i.imgur.com/AI3wWU4.png"
       }
     },
     {
-      "title": "Full Moon",
+      "title": "Tier 3",
       "description": "Unveil the highest quality experience! Go beyond the limits of what can already be done.",
-      "url": "https://corryinthehouse.imgur.com/all/",
+      "url": "https://www.patreon.com/join/wlop/checkout?rid=142829",
       "color": 5371035,
-      "fields": [
-        {
-          "name": "$6.5 USD/month",
-          "value": "<:lm_bulletpoint2:881638964853870592>"
-        }
-      ],
-      "thumbnail": {
-        "url": "https://i.imgur.com/dLXz6b8.png"
+      "image": {
+        "url": "https://i.imgur.com/4DRcFLB.png"
       }
     },
     {
